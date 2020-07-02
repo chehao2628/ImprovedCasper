@@ -1,0 +1,2 @@
+# ImprovedCasper
+This is a individual project. A structure 'Improved Casper' based on the Casper (Treadgold and Gedeon, 1997) Algorithm. Casper is an improved version of Cascor (Cascade Correlation) which is a Neural Network structure (Fahlman and Lebiere, 1990) is produced. The techniques used in original Casper algorithm are old claimed 20 years ago. In this project, I applied state-of-art techniques to improve the Casper Algorithm. The Dataset SFEW(Static Facial Expressions in the Wild) was used to evaluate Improved Casper. This project implemented with Pytorch.
